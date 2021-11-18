@@ -1,0 +1,24 @@
+{
+  "name": "lab3-afreem",
+  "version": "1.0.0",
+  "description": "lab3 Express Server Doodle Game",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ShaimaaAliECE/lab3-afreem.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ShaimaaAliECE/lab3-afreem/issues"
+  },
+  "homepage": "https://github.com/ShaimaaAliECE/lab3-afreem#readme",
+  "dependencies": {
+    "cookie-parser": "^1.4.6",
+    "express": "^4.17.1",
+    "mysql": "^2.18.1"
+  }
+}
